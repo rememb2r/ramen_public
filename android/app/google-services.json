@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662563911855",
+    "project_id": "ramen-for-everyone",
+    "storage_bucket": "ramen-for-everyone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662563911855:android:2317ccacf9bcf9b031bc5a",
+        "android_client_info": {
+          "package_name": "com.example.ramen_for_everyone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662563911855-cbpm76p0cvp5b70q9333lms8mijauejt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcejWsqv1CzD7TPcgt0AvNW9BjnzbUb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662563911855-cbpm76p0cvp5b70q9333lms8mijauejt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
